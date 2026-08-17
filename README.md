@@ -10,7 +10,7 @@ Air Touchpad Pro adalah aplikasi utilitas berbasis *Computer Vision* yang menyul
 * **Picture-in-Picture (PiP) Transparan:** Jendela kamera tidak akan menutupi pekerjaan Anda dan selalu *stay-on-top*.
 
 ## 🛠️ Teknologi yang Digunakan
-* **Python 3.x**
+* **Python 3.10**
 * **OpenCV** (Pengolahan gambar & UI)
 * **MediaPipe** (Pelacakan sendi tangan/Biometrik)
 * **PyAutoGUI** (Automasi sistem operasi)
@@ -23,7 +23,7 @@ Air Touchpad Pro adalah aplikasi utilitas berbasis *Computer Vision* yang menyul
 
 2. Masuk ke direktori proyek:
    ```bash
-   cd Air-Touchpad-Pro
+   cd Air-Touchpad
 
 3. Buat dan aktifkan Virtual Environment (Direkomendasikan):
    ```bash
