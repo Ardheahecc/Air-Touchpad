@@ -1,0 +1,117 @@
+=======================================================================
+                      Buku Panduan: AIR TOUCHPAD
+=======================================================================
+
+Selamat datang di Air Touchpad Pro! Aplikasi ini menyulap webcam 
+komputer Anda menjadi sensor gerak cerdas yang memungkinkan Anda 
+mengontrol PC sepenuhnya di udara tanpa menyentuh mouse atau keyboard.
+
+Aplikasi ini menggunakan sistem "Two-Hand Control" (Kendali Dua Tangan):
+- TANGAN KIRI bertugas sebagai Navigator (Kursor & Mode).
+- TANGAN KANAN bertugas sebagai Eksekutor (Klik, Scroll, Action).
+
+=======================================================================
+1. PERSIAPAN AWAL & MEMAHAMI LAYAR (UI)
+=======================================================================
+Saat aplikasi berjalan, sebuah jendela kamera berukuran kecil (PiP) 
+akan muncul. Jendela ini tembus pandang (transparan) dan akan selalu 
+mengambang di atas aplikasi lain sebagai "Mini Map" Anda.
+
+* Kotak Ungu: Ini adalah area aktif batas layar monitor Anda. Pastikan 
+  tangan Anda bergerak di dalam kotak ungu ini.
+* Peringatan Merah (Warning): Jika tangan kiri Anda hampir keluar dari 
+  batas kotak, layar akan berkedip merah dengan tulisan "AWAS: KELUAR 
+  BATAS!". Segera kembalikan tangan ke tengah layar kamera.
+
+=======================================================================
+2. KENDALI KURSOR & UTILITAS (TANGAN KIRI)
+=======================================================================
+Gunakan TANGAN KIRI Anda di dalam kotak ungu untuk navigasi dasar.
+
+* MENGGERAKKAN KURSOR:
+  Acungkan jari telunjuk kiri Anda. Kursor akan mengikuti ujung jari.
+  (Sistem dilengkapi "Adaptive Smoothing": Ayunkan tangan dengan CEPAT 
+  untuk menjangkau ujung layar tanpa jeda, atau gerakkan dengan PELAN 
+  untuk membidik tombol kecil dengan sangat presisi).
+
+* MEMANGGIL KEYBOARD VIRTUAL (OSK):
+  Bentuk tangan kiri Anda menyerupai gestur "Metal/Rock" 🤘 (Jempol, 
+  Telunjuk, dan Kelingking terbuka). Tahan posisi tersebut selama 2 
+  detik. Keyboard layar (On-Screen Keyboard) akan muncul otomatis.
+
+* MENGUNCI MODE ZOOM:
+  Acungkan jari Telunjuk dan Tengah ✌️ (Peace). Layar akan menampilkan 
+  teks "ZOOM MODE LOCKED". Pertahankan posisi ini jika Anda ingin 
+  melakukan Zoom In/Out menggunakan tangan kanan.
+
+=======================================================================
+3. KENDALI KLIK, SCROLL & MULTITASKING (TANGAN KANAN)
+=======================================================================
+Sambil kursor diarahkan oleh tangan kiri, gunakan TANGAN KANAN untuk 
+mengeksekusi perintah.
+
+* KLIK KIRI:
+  Satukan (cubit) ujung Jempol dan Telunjuk tangan kanan dengan cepat. 
+  (Akan muncul indikator lingkaran HIJAU di layar kamera).
+
+* DRAG AND DROP (Seret & Lepas):
+  Lakukan cubitan (Jempol + Telunjuk) lalu TAHAN selama 0.4 detik. 
+  Layar akan menampilkan teks "DRAGGING". Sambil menahan cubitan, 
+  gerakkan tangan kiri Anda untuk memindahkan file atau memblok teks. 
+  Lepaskan cubitan untuk menjatuhkannya (Drop).
+
+* KLIK KANAN:
+  Satukan (cubit) ujung Jempol dan Jari TENGAH tangan kanan. 
+  (Akan muncul indikator lingkaran BIRU di layar kamera).
+
+* SCROLL (GULIR HALAMAN):
+  Buka ke-5 jari tangan kanan Anda 🖐️ (telapak terbuka). 
+  Ayunkan tangan ke ATAS untuk menggulir halaman ke atas. 
+  Ayunkan tangan ke BAWAH untuk menggulir halaman ke bawah.
+
+* ZOOM IN / ZOOM OUT:
+  1. Kunci mode dengan Tangan Kiri (Acungkan 2 jari ✌️).
+  2. Gunakan Tangan Kanan (Buka 5 jari 🖐️).
+  3. Ayunkan tangan kanan ke ATAS untuk Zoom In (Perbesar), atau ke 
+     BAWAH untuk Zoom Out (Perkecil).
+
+* TASK VIEW (APP SWITCHER):
+  Acungkan 3 jari tangan kanan (Telunjuk, Tengah, Manis). Ayunkan/
+  sentakkan tangan secara vertikal ke arah ATAS. Layar PC Anda akan 
+  langsung menampilkan jendela Task View (Multitasking) Windows.
+
+=======================================================================
+4. MODE SPESIAL & MEDIA KONTROL
+=======================================================================
+Fitur tambahan untuk kenyamanan saat presentasi atau menonton film.
+
+* MODE JEDA / ISTIRAHAT (PAUSE SYSTEM):
+  Gestur: KEPALKAN KEDUA TANGAN ✊ ✊ secara bersamaan.
+  Tahan selama 1.5 detik hingga muncul teks besar "SISTEM JEDA". 
+  Dalam mode ini, kursor dan sistem akan mati sementara agar tidak 
+  ada klik tak sengaja saat Anda sedang minum atau mengobrol. 
+  (Lakukan gestur yang sama untuk membangunkan sistem).
+
+* KONTROL MUSIK & VIDEO (MEDIA CONTROL):
+  Kunci Mode: KEPALKAN TANGAN KIRI ✊ Anda secara terus menerus. 
+  (Akan muncul tulisan "MEDIA MODE AKTIF"). Sambil tangan kiri 
+  mengepal, gunakan tangan kanan untuk perintah berikut:
+
+  - VOLUME NAIK/TURUN: Acungkan 1 Jari Telunjuk Kanan ☝️, lalu ayunkan 
+    ke atas untuk mengeraskan suara, atau ke bawah untuk mengecilkan.
+  - NEXT/PREV TRACK: Acungkan 2 Jari Kanan ✌️ (Peace), lalu sentakkan 
+    ke Kanan (Lagu Selanjutnya) atau ke Kiri (Lagu Sebelumnya).
+
+=======================================================================
+5. TIPS PENGGUNAAN OPTIMAL
+=======================================================================
+1. Pencahayaan: Pastikan ruangan Anda memiliki pencahayaan yang cukup. 
+   Kamera yang terlalu gelap akan kesulitan membedakan sela-sela jari.
+2. Latar Belakang: Hindari latar belakang yang terlalu ramai atau ada 
+   orang lain yang menggerakkan tangan di belakang Anda.
+3. Rileks: Anda tidak perlu mengangkat tangan terlalu tinggi. Cukup 
+   sandarkan siku Anda di sandaran kursi atau meja, dan arahkan telapak 
+   tangan ke arah kamera.
+
+Selamat menikmati pengalaman komputasi masa depan!
+=======================================================================
