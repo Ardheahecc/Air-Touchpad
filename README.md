@@ -1,8 +1,6 @@
-# 🛸 Air Touchpad Pro (Ultimate Edition)
+# 🛸 Air Touchpad
 
 Air Touchpad Pro adalah aplikasi utilitas berbasis *Computer Vision* yang menyulap webcam Anda menjadi sensor gerak cerdas. Kendalikan kursor mouse, lakukan klik, gulir halaman, hingga mengontrol musik hanya dengan gestur tangan di udara!
-
-![Screenshot Aplikasi](TAMBAHKAN_LINK_ATAU_UPLOAD_GAMBAR_SCREENSHOT_ANDA_DI_SINI)
 
 ## ✨ Fitur Utama
 * **Two-Hand Control Architecture:** Pembagian tugas yang natural (Tangan Kiri untuk navigasi kursor, Tangan Kanan untuk eksekusi aksi).
